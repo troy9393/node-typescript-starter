@@ -1,0 +1,1 @@
+export { DepartmentAttributes } from './departmentAttributes';

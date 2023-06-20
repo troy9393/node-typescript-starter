@@ -1,0 +1,16 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687229987722,
+            "name": "C:\\Users\\esgtr\\Documents\\Bootcamp 2\\Codes\\nodejs\\node-typescript-starter\\logs\\access.2023-06-20.log",
+            "hash": "7ff4affe60e0e0cc35a7930645f093ea"
+        }
+    ]
+}
